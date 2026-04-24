@@ -6,8 +6,12 @@ def main():
 
     save_die_engrave_data(
         output_path=json_path,
-        face1="handcuffs.png",
-        face2="bird-scepter.png",
+        # face1="yourImage1.png",
+        # face2="yourImage2.png",
+        # face3="yourImage3.png",
+        # face4="yourImage4.png",
+        # face5="yourImage5.png",
+        # face6="yourImage6.png",
         die_size=0.7
     )
 
